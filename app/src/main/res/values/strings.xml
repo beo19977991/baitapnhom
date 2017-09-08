@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Can Bang Dinh Duong</string>
+    <string name="duoi_12_thang">duoi 12 thang</string>
+    <string name="_1_9_tuoi">1_9 tuoi</string>
+    <string name="_10_18_tuoi">10_18 tuoi</string>
+    <string name="_19_49_tuoi">19_49 tuoi</string>
+    <string name="tren_50_tuoi">tren 50 tuoi</string>
+    <string name="lua_chon_theo_do_tuoi">lua chon theo do tuoi</string>
+    <string name="luong_chat_can_thiet">Luong Chat Can Thiet</string>
+    <string name="protein">Protein</string>
+    <string name="tinh_bot">Tinh Bot</string>
+    <string name="chat_beo">Chat Beo</string>
+    <string name="vitamin">Vitamin</string>
+    <string name="chat_xo">Chat Xo</string>
+
+</resources>
